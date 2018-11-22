@@ -1,0 +1,5 @@
+Unified Device Tree for Asus Zenfone 2 Laser Z00RD (720p)
+===========================================
+
+
+**Copyright 2018- The CyanogenMod Project.**
